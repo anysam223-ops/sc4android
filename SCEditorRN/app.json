@@ -10,7 +10,8 @@
       "backgroundColor": "#0E0E14"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sceditor.app"
     },
     "android": {
       "adaptiveIcon": {
