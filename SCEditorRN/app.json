@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SC Editor",
-    "slug": "sc-editor",
+    "slug": "sc-editor-android",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
